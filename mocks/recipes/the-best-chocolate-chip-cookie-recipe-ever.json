@@ -1,0 +1,137 @@
+{
+  "author": {
+    "connect": { "email": "email@gmail.com" }
+  },
+  "title": "The Best Chocolate Chip Cookie Recipe Ever",
+  "description": "This is the best chocolate chip cookies recipe ever! No funny ingredients, no chilling time, etc. Just a simple, straightforward, amazingly delicious, doughy yet still fully cooked, chocolate chip cookie that turns out perfectly every single time!",
+  "rating": 4.25,
+  "reviewCount": 4,
+  "prepTime": 10,
+  "cookTime": 8,
+  "additionalTime": 12,
+  "servings": 36,
+  "difficulty": {
+    "connect": { "name": "easy" }
+  },
+  "theme": {
+    "connect": { "name": "sweets and treats" }
+  },
+  "public": true,
+  "featured": true,
+  "tags": {
+    "connect": [
+      { "name": "cookie" },
+      { "name": "desert" },
+      { "name": "chocolate" }
+    ]
+  },
+  "ingredients": {
+    "createMany": {
+      "data": [
+        {
+          "number": 0,
+          "name": "salted butter",
+          "quantity": "1 cup",
+          "description": "softened"
+        },
+        {
+          "number": 1,
+          "name": "granulated sugar",
+          "quantity": "1 cup"
+        },
+        {
+          "number": 2,
+          "name": "light brown sugar",
+          "quantity": "1 cup",
+          "description": "packed"
+        },
+        {
+          "number": 3,
+          "name": "pure vanilla extract",
+          "quantity": "2 teaspoons"
+        },
+        {
+          "number": 4,
+          "name": "large eggs",
+          "quantity": "2"
+        },
+        {
+          "number": 5,
+          "name": "all-purpose flour",
+          "quantity": "3 cups"
+        },
+        {
+          "number": 6,
+          "name": "baking soda",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "number": 7,
+          "name": "baking powder",
+          "quantity": "1/2 teaspoon"
+        },
+        {
+          "number": 8,
+          "name": "sea salt",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "number": 9,
+          "name": "chocolate chips",
+          "quantity": "2 cups (14oz)"
+        }
+      ]
+    }
+  },
+  "instructions": {
+    "createMany": {
+      "data": [
+        {
+          "step": 0,
+          "instruction": "Preheat oven to 375 degrees F. Line three baking sheets with parchment paper and set aside."
+        },
+        {
+          "step": 1,
+          "instruction": "In a medium bowl mix flour, baking soda, baking powder and salt. Set aside."
+        },
+        {
+          "step": 2,
+          "instruction": "Cream together butter and sugars until combined."
+        },
+        {
+          "step": 3,
+          "instruction": "Beat in eggs and vanilla until light (about 1 minute)."
+        },
+        {
+          "step": 4,
+          "instruction": "Mix in the dry ingredients until combined."
+        },
+        {
+          "step": 5,
+          "instruction": "Add chocolate chips and mix well."
+        },
+        {
+          "step": 6,
+          "instruction": "Roll 2-3 Tablespoons (depending on how large you like your cookies) of dough at a time into balls and place them evenly spaced on your prepared cookie sheets."
+        },
+        {
+          "step": 7,
+          "instruction": "Bake in preheated oven for approximately 8-10 minutes. Take them out when they are just barely starting to turn brown."
+        },
+        {
+          "step": 8,
+          "instruction": "Let them sit on the baking pan for 2 minutes before removing to cooling rack."
+        }
+      ]
+    }
+  },
+  "kitchenTools": {
+    "connect": [
+      { "category": "measuring cups and spoons" },
+      { "category": "stand mixer" },
+      { "category": "spatula" },
+      { "category": "baking sheet" },
+      { "category": "parchment paper" }
+    ]
+  }
+}

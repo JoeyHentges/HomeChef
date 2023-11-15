@@ -1,0 +1,139 @@
+{
+  "author": {
+    "connect": { "email": "email@gmail.com" }
+  },
+  "title": "Coconut Curry Butternut Squash Soup",
+  "description": "Very filling and even a little zesty, this butternut squash soup is a decadent appetizer. Butternut squash is hearty on its own, but the coconut milk makes the mixture truly rich. Serve with a warm baguette.",
+  "prepTime": 15,
+  "cookTime": 110,
+  "servings": 6,
+  "difficulty": {
+    "connect": { "name": "easy" }
+  },
+  "theme": {
+    "connect": { "name": "soups and stews" }
+  },
+  "tags": {
+    "connect": [{ "name": "soup" }, { "name": "winter" }]
+  },
+  "ingredients": {
+    "createMany": {
+      "data": [
+        {
+          "number": 0,
+          "name": "butternut squash",
+          "quantity": "1",
+          "description": "halved and seeded"
+        },
+        {
+          "number": 1,
+          "name": "butter",
+          "quantity": "1 tablespoon",
+          "description": "melted"
+        },
+        {
+          "number": 2,
+          "name": "salt",
+          "quantity": "1 teaspoon",
+          "description": "divided"
+        },
+        {
+          "number": 3,
+          "name": "pumpkin pie spice",
+          "quantity": "3/4 teaspoon",
+          "description": "divided"
+        },
+        {
+          "number": 4,
+          "name": "cayenne pepper",
+          "quantity": "1/4 teaspoon"
+        },
+        {
+          "number": 5,
+          "name": "butter",
+          "quantity": "1 tablespoon"
+        },
+        {
+          "number": 6,
+          "name": "yellow onion",
+          "quantity": "1/2 cup"
+        },
+        {
+          "number": 7,
+          "name": "yellow curry powder",
+          "quantity": "1 teaspoon"
+        },
+        {
+          "number": 8,
+          "name": "coconut milk",
+          "quantity": "1 (13 oz) can"
+        },
+        {
+          "number": 9,
+          "name": "vegetable stock",
+          "quantity": "2 1/2 cups",
+          "description": "or more if needed"
+        },
+        {
+          "number": 10,
+          "name": "nutmeg",
+          "quantity": "1/4 teaspoon",
+          "description": "freshly grated"
+        },
+        {
+          "number": 11,
+          "name": "pepitas (pumpkin seeds)",
+          "quantity": "1/2 cup"
+        },
+        {
+          "number": 12,
+          "name": "nutmeg",
+          "quantity": "1 pinch, or to taste",
+          "description": "freshly grated"
+        }
+      ]
+    }
+  },
+  "instructions": {
+    "createMany": {
+      "data": [
+        {
+          "step": 0,
+          "instruction": "Preheat oven to 425 degrees F (220 degrees C)."
+        },
+        {
+          "step": 1,
+          "instruction": "Place butternut squash in a baking dish, flesh side up. Brush 1 tablespoon melted butter over the flesh and top with 1/2 teaspoon salt, 1/2 teaspoon pumpkin pie spice, and cayenne pepper."
+        },
+        {
+          "step": 2,
+          "instruction": "Roast in the preheated oven until tender, about 1 hour. Remove squash from oven and cool for 15 minutes."
+        },
+        {
+          "step": 3,
+          "instruction": "Place a large stockpot over medium heat; add 1 tablespoon butter. Cook and stir onion in the melted butter for 2 minutes. Add curry powder; cook and stir for 1 minute. Stir in coconut milk; bring to a boil."
+        },
+        {
+          "step": 4,
+          "instruction": "Scoop flesh from the butternut squash and add to coconut milk mixture; mix in remaining 1/2 teaspoon salt, 1/4 teaspoon pumpkin pie spice, vegetable stock, and 1/4 teaspoon nutmeg. Bring to a boil, reduce heat to low, and simmer until soup is heated through."
+        },
+        {
+          "step": 5,
+          "instruction": "Blend soup using an immersion blender on low speed. Simmer until soup is smooth and thickened, about 20 minutes more. Add more vegetable stock for a thinner consistency and season with salt."
+        },
+        {
+          "step": 6,
+          "instruction": "Ladle soup into bowls and top each with pumpkin seeds and a pinch of nutmeg."
+        }
+      ]
+    }
+  },
+  "kitchenTools": {
+    "connect": [
+      { "category": "chef's knife" },
+      { "category": "measuring cups and spoons" },
+      { "category": "immersion blender" },
+      { "category": "baking sheet" }
+    ]
+  }
+}
